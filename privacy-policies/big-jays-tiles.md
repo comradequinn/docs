@@ -1,4 +1,4 @@
-## Big Jays Tiles: Privacy policy
+## Big Jays Tiles: Privacy Policy
 
 Big Jays Tiles is open source Android app developed by `comradequinn`. The source code is available on GitHub under the GNU GPL v3 license; the app is also available on Google Play.
 
